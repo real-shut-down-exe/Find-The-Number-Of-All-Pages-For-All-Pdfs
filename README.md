@@ -19,8 +19,5 @@ For Whom:
 Properties:
 * it finds the sum of the number of pages of all pdf files by giving only the location of pdf files.
 
-Follow me on these pages please :)
----------------------------------------------------
-* [Instagram](https://www.instagram.com/real.shut.down.exe/)
-* [Twitter](https://twitter.com/emr_yasa_)
+
 * Thank you for reading
