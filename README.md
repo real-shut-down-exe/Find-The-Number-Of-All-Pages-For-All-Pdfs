@@ -1,4 +1,4 @@
-# find-the-number-of-all-pages-for-all-pdfs
+# Find-The-Number-Of-All-Pages-For-All-Pdfs
 
 Libraries that need to be installed:
 * [PyPDF2](https://pypi.org/project/PyPDF2/) or pip install PyPDF2
